@@ -1,0 +1,6 @@
+(^|\.)\w*telegram\w*\.\w*$
+39.98.36.81/24
+(^|\.)discord\.gg$
+(^|\.)discord\.media$
+(^|\.)discordapp\.com$
+(^|\.)discordapp\.net$
